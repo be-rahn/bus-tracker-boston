@@ -1,5 +1,7 @@
 body {
   height: 100%;
+  display: flex;
+  justify-content: center;
 }
 header {
   text-align: center;
@@ -24,7 +26,7 @@ button {
 
 #simulations,
 #text-processors,
-#featured-projects {
+#projects {
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
