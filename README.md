@@ -1,7 +1,7 @@
 # bus-tracker-boston
 
 ## Project Description
-A real-time bus tracking app for the city of Boston utilizing the MBTA API and MapBox GL.
+A real-time bus tracking app that shows the location of MBTA buses in Boston, MA. Made using HTML, CSS and JavaScript and utilizing Mapbox and MBTA API.
 
 ## How to Run
 View the app on my homepage at https://be-rahn.github.io/ and click the Use the app button. You can also run this project by cloning the repository to your local machine and opening the index.html file in your browser. You will need to obtain an API key from the MBTA API website at https://api-v3.mbta.com/ to run the app.
